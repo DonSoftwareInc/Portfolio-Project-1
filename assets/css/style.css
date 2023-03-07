@@ -26,6 +26,8 @@ h1 , h2{
     margin-left: 30px;
 }
 
+/*The menu bar i learned from the love running project*/
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -35,6 +37,7 @@ h1 , h2{
     line-height: 75px;
 }
 
+/*I learned this from a another student in slack on how to reverse the floating issue with a navbar*/
 ul{
 float: right;
 }
@@ -56,4 +59,19 @@ float: right;
 
 .active {
     border-bottom: 1px solid #FF7F11;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image2.jpg') no-repeat center center;
 }
