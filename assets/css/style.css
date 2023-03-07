@@ -8,6 +8,52 @@
 
 body{
     font-family: Nunito-sans, sans-serif;
-    font-weight: 300;
+    font-weight: 200;
     color: #FFFFFC;
+    background-color: #292929;
+}
+
+h1 , h2{
+    font-family: Oswald ,sans-serif;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: #FF7F11;
+}
+
+#logo{
+    float: left;
+    font-size: 250%;
+    margin-left: 30px;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+ul{
+float: right;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #FF7F11;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #FF7F11;
+}
+
+.active {
+    border-bottom: 1px solid #FF7F11;
 }
