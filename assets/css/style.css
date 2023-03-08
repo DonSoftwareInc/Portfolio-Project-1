@@ -1,26 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,200&family=Oswald:wght@300&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: none;
 }
 
-body{
+body {
     font-family: Nunito-sans, sans-serif;
     font-weight: 200;
     color: #FFFFFC;
     background-color: #292929;
 }
 
-h1 , h2{
-    font-family: Oswald ,sans-serif;
+h1,
+h2 {
+    font-family: Oswald, sans-serif;
     font-weight: 300;
     letter-spacing: 2px;
     color: #FF7F11;
 }
 
-#logo{
+#logo {
     float: left;
     font-size: 250%;
     margin-left: 30px;
@@ -33,13 +34,14 @@ h1 , h2{
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
 /*I learned this from a another student in slack on how to reverse the floating issue with a navbar*/
-ul{
-float: right;
+ul {
+    float: right;
 }
 
 #menu li {
@@ -80,14 +82,17 @@ float: right;
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
-    from{
+    from {
         transform: scale(1);
     }
-    to{
+
+    to {
         transform: scale(1.1);
     }
 }
-.flex-container{
+
+/* This was learned from a combination of W3schools and The Dev Dreamer youtube page (CSS walkthrough video)*/
+.flex-container {
     width: auto;
     height: 600%;
     margin: 80px auto;
@@ -96,27 +101,69 @@ float: right;
     flex-direction: row;
 }
 
-#weightslogo{
+#weightslogo {
     padding-left: 30px;
     padding-right: 30px;
 }
 
+/*Button below has been founded from w3schools */
 #index-aboutus-button{
-    padding: 10, 10;
+    background-color: #FF7F11; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 100px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
 
-#legend{
+#index-aboutus-button:hover{
+        background-color: #FFFFFC;
+        color: 292929;
+}
+
+
+#legend {
     text-align: center;
     padding-left: 30px;
     padding-right: 30px;
     color: #FF7F11;
 }
 
-#gymzones{
+#gymzones {
     list-style-type: none;
 }
 
-#assaultbike{
+#assaultbike {
     margin-left: 30px;
     margin-right: 30px;
+}
+
+/*Button below has been founded from w3schools */
+#index-signup-button{
+    background-color: #FF7F11; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 16px;
+    margin: 30px 120px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+#index-signup-button:hover{
+        background-color: #FFFFFC;
+        color: #292929;
 }
