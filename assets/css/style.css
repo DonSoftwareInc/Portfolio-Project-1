@@ -178,6 +178,7 @@ nav {
     width: 33%;
     margin: 0 auto;
     padding: 30px;
+    clear: top;
     clear: both;
 }
 #trx{
