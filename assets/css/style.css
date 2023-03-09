@@ -165,6 +165,30 @@ nav {
         color: #292929;
 }
 
+#yoga{
+    border: 8px solid #FF7F11;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    width: 33%;
+    clear: right;
+}
+
+#about-us-legend{
+    width: 33%;
+    margin: 0 auto;
+    padding: 30px;
+    clear: both;
+}
+#trx{
+    border: 8px solid #FF7F11;
+    text-align: center;
+    float: right;
+    margin-right: 30px;
+    width: 33%;
+    clear: left;
+}
+
 footer {
     height: 150px;
 }
