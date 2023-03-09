@@ -164,3 +164,22 @@ nav {
         background-color: #FFFFFC;
         color: #292929;
 }
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 5%;
+    color: #FF7F11;
+}
