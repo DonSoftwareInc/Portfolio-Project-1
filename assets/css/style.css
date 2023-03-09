@@ -166,12 +166,11 @@ nav {
 }
 
 #yoga{
-    border: 8px solid #FF7F11;
-    text-align: center;
-    float: left;
-    margin-left: 30px;
     width: 33%;
-    clear: right;
+    border: 8px solid #FF7F11;
+    margin-top: 7%;
+    margin-bottom: 2%;
+    float: left;
 }
 
 #about-us-legend{
@@ -185,9 +184,13 @@ nav {
     border: 8px solid #FF7F11;
     text-align: center;
     float: right;
-    margin-right: 30px;
+    margin-right: 10%;
     width: 33%;
-    clear: left;
+}
+
+#aboutustrx{
+    margin-top: 2%;
+    margin-bottom: 24%;
 }
 
 footer {
