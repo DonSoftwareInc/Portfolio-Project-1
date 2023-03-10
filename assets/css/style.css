@@ -219,6 +219,12 @@ nav {
     vertical-align: center;
 }
 
+#Cardio{
+    height: 300px;
+    width: 130%;
+    padding-right: 30px;
+}
+
 #sauna-steam{
     border-style:solid 3px #292929 ;
     background-color: #FF7F11;
