@@ -192,6 +192,20 @@ nav {
     margin-top: 2%;
     margin-bottom: 24%;
 }
+#free-weights{
+border-style: 1px solid #FF7F11;
+padding-left: 20PX;
+padding: 20PX;
+width: 25%;
+}
+
+
+#cardio-vascular{
+    border-style: 1px solid #FF7F11;
+padding-left: 20PX;
+padding: 20PX;
+width: 25%; 
+}
 
 footer {
     height: 150px;
