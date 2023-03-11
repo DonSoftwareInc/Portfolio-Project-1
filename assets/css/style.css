@@ -98,20 +98,19 @@ nav {
     flex-direction: row;
 }
 
-/* #weightslogo{
-    height: 300px;
-    width: 100%;
-} */
+#weightslogo{
+    margin-left: 20px;
+} 
 
 #squat-image{
     height: 600px;
     width: 120%;
-    padding: 20px;
+    border: 8px solid #FF7F11;
 }
 
 #legend {
     text-align: center;
-    padding-left: 140px;
+    padding-left: 120px;
     padding-right: 40px;
     color: #FF7F11;
 }
@@ -121,14 +120,14 @@ nav {
 }
 
 #assaultbike {
-    margin-left: 30px;
     margin-right: 60px;
+
 }
 
 #assault-bike-image{
     height: 600px;
     width: 110%;
-    padding: 10px;
+    border: 8px solid #FF7F11;
 }
 
 /*Button below has been founded from w3schools */
@@ -222,7 +221,7 @@ nav {
 }
 #dumbbells{
     height: 300px;
-    width: 10%;
+    width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
     
