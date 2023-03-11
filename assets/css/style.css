@@ -200,9 +200,10 @@ nav {
 #free-weights{
     border-style: 10px solid #292929 ;
     background-color: #FF7F11;
-    padding-top: 2%;
+    /* padding-top: 2%;
     padding-left:  5%;
-    padding-right: 5%;
+    padding-right: 5%; */
+    padding: 10px 10px 10px 10px;
     width: 25%; 
     text-align: center;
     vertical-align: center;
@@ -210,15 +211,18 @@ nav {
 #dumbbells{
     height: 300px;
     width: 130%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 
 #cardio-vascular{
     border-style:solid 3px #292929 ;
     background-color: #FF7F11;
-    padding-top: 2%;
+    /* padding-top: 2%;
     padding-left:  5%;
-    padding-right: 5%;
+    padding-right: 5%; */
+    padding: 5px 10px 5px 10px;
     width: 25%; 
     text-align: center;
     vertical-align: center;
@@ -227,15 +231,18 @@ nav {
 #cardio{
     height: 300px;
     width: 130%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 
 #sauna-steam{
     border-style:solid 3px #292929 ;
     background-color: #FF7F11;
-    padding-top: 2%;
+    /* padding-top: 2%;
     padding-left:  5%;
-    padding-right: 5%;
+    padding-right: 5%; */
+    padding: 5px 10px 5px 10px;
     width: 25%;
     text-align: center;
     vertical-align: center;
@@ -244,14 +251,17 @@ nav {
 #sauna{
     height: 300px;
     width: 130%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #personal-training{
     border-style:solid 3px #292929 ;
     background-color: #FF7F11;
-    padding-top: 2%;
+    padding: 5px 10px 5px 10px;
+    /* padding-top: 2%;
     padding-left:  5%;
-    padding-right: 5%;
+    padding-right: 5%; */
     width: 25%; 
     text-align: center;
     vertical-align: center;
@@ -259,7 +269,9 @@ nav {
 
 #personaltraining{
     height: 300px;
-    width: 130%;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 footer {
