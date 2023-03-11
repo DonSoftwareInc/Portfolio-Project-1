@@ -207,6 +207,11 @@ nav {
     text-align: center;
     vertical-align: center;
 }
+#dumbbells{
+    height: 300px;
+    width: 130%;
+    
+}
 
 #cardio-vascular{
     border-style:solid 3px #292929 ;
@@ -219,10 +224,10 @@ nav {
     vertical-align: center;
 }
 
-#Cardio{
+#cardio{
     height: 300px;
     width: 130%;
-    padding-right: 30px;
+    
 }
 
 #sauna-steam{
@@ -236,6 +241,11 @@ nav {
     vertical-align: center;
 }
 
+#sauna{
+    height: 300px;
+    width: 130%;
+}
+
 #personal-training{
     border-style:solid 3px #292929 ;
     background-color: #FF7F11;
@@ -245,6 +255,11 @@ nav {
     width: 25%; 
     text-align: center;
     vertical-align: center;
+}
+
+#personaltraining{
+    height: 300px;
+    width: 130%;
 }
 
 footer {
