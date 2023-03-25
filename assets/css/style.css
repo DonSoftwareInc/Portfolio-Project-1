@@ -180,44 +180,51 @@ nav {
     text-align: center;
     vertical-align: center;
     border-style: solid;
-    border-width: 5px
+    border-width: 5px;
+    border-radius: 50%;
 }
 
 #yoga{
-    height: 300px;
+    height: 400px;
     width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    justify-content: center;
+    align-self: center;
+    border-radius: 50%;
 }
 
 #about-us-legend{
     display: flex;
     background-color: #FF7F11;
-    padding: 5px 10px 5px 10px;
+    padding: 110px 30px 110px 30px;
     width: 33%; 
-    text-align: center;
-    vertical-align: center;
+    justify-content: center;
+    align-self: center;
     border-style: solid;
-    border-width: 5px
+    border-width: 5px;
+    border-radius: 50%;
+}
+#spartan-legend{
+    padding: 15px;
 }
 
 #aboutustrx{
     display: flex;
     background-color: #FF7F11;
-    padding: 5px 10px 5px 10px;
+    padding: 3px 10px 3px 10px;
     width: 33%; 
     text-align: center;
     vertical-align: center;
     border-style: solid;
-    border-width: 5px
+    border-width: 5px;
+    border-radius: 50%;
 }
 #trx{
-    height: 300px;
+    height: 400px;
     width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    justify-content: center;
+    align-self: center;
+    border-radius: 50%;
 }
-
 
 #signup-title{
     padding-top: 3%;
@@ -257,7 +264,6 @@ nav {
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    
 }
 
 #sauna-steam{
@@ -285,7 +291,7 @@ nav {
     text-align: center;
     vertical-align: center;
     border-style: solid;
-  border-width: 5px
+    border-width: 5px
 }
 
 #personaltraining{
