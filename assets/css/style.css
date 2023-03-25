@@ -368,7 +368,12 @@ input[type=text] {
     color: #FF7F11;
  } 
 
-
+#thank-you-message{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
 footer {
     height: 150px;
 }
