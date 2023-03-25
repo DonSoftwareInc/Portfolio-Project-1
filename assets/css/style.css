@@ -172,33 +172,37 @@ nav {
         color: #292929;
 }
 
-#yoga{
-    width: 33%;
-    border: 8px solid #FF7F11;
-    margin-top: 7%;
-    margin-bottom: 2%;
-    float: left;
+#aboutusyoga{
+    background-color: #FF7F11;
+    padding: 5px 10px 5px 10px;
+    width: 33%; 
+    text-align: center;
+    vertical-align: center;
+    border-style: solid;
+    border-width: 5px
 }
 
 #about-us-legend{
-    width: 33%;
-    margin: 0 auto;
-    padding: 30px;
-    clear: top;
-    clear: both;
-}
-#trx{
-    border: 8px solid #FF7F11;
+    background-color: #FF7F11;
+    padding: 5px 10px 5px 10px;
+    width: 33%; 
     text-align: center;
-    float: right;
-    margin-right: 10%;
-    width: 33%;
+    vertical-align: center;
+    border-style: solid;
+    border-width: 5px
 }
 
 #aboutustrx{
-    margin-top: 2%;
-    margin-bottom: 24%;
+    background-color: #FF7F11;
+    padding: 5px 10px 5px 10px;
+    width: 33%; 
+    text-align: center;
+    vertical-align: center;
+    border-style: solid;
+    border-width: 5px
 }
+
+
 #signup-title{
     padding-top: 3%;
     text-align: center;
@@ -206,9 +210,6 @@ nav {
 
 #free-weights{
     background-color: #292929;
-    /* padding-top: 2%;
-    padding-left:  5%;
-    padding-right: 5%; */
     padding: 5px 10px 5px 10px;
     width: 25%; 
     text-align: center;
@@ -227,9 +228,6 @@ nav {
 
 #cardio-vascular{
     background-color: #FF7F11;
-    /* padding-top: 2%;
-    padding-left:  5%;
-    padding-right: 5%; */
     padding: 5px 10px 5px 10px;
     width: 25%; 
     text-align: center;
@@ -248,9 +246,6 @@ nav {
 
 #sauna-steam{
     background-color: #292929;
-    /* padding-top: 2%;
-    padding-left:  5%;
-    padding-right: 5%; */
     padding: 5px 10px 5px 10px;
     width: 25%;
     text-align: center;
@@ -270,9 +265,6 @@ nav {
 #personal-training{
     background-color: #FF7F11;
     padding: 5px 10px 5px 10px;
-    /* padding-top: 2%;
-    padding-left:  5%;
-    padding-right: 5%; */
     width: 25%; 
     text-align: center;
     vertical-align: center;
@@ -293,7 +285,6 @@ nav {
 
 #sign-up-form-title{
     padding-top: 3%;
-    /* text-align: center; */
 }
 
 #form{
