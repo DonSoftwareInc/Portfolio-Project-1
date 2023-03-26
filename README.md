@@ -89,4 +89,4 @@ The target of Spartan Fitness is for any person who wants to train in a supergym
 
 ## Media
 - All of the photos on my website where obtained from pexels free stock photos site.
-![image](https://user-images.githubusercontent.com/119259663/227767412-c665be58-0997-408d-ae54-f23255e5939d.png)
+
