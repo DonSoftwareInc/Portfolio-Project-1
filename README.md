@@ -80,7 +80,8 @@ The target of Spartan Fitness is for any person who wants to train in a supergym
 # Credits
 
 ## Content
-- The legend & Gym Zones description was taken from https://www.vervegym.ie/.
+- The legend & Gym Zones (Homepage) plus the sections on the sign up page descriptions were taken from https://www.vervegym.ie/.
+- The about us content was taken from the Gym sharks about us page on their website.
 - Stack Overflow, W3 Docs, MDN Web Docs and other online resources were used to help with HTML and CSS code i wanted to use on my website.
 - Slack for asking questions when required.
 - The icons where taken from Font Awesome
