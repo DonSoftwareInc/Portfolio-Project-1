@@ -75,4 +75,16 @@ The target of Spartan Fitness is for any person who wants to train in a supergym
 ## Thank You Screen
 - The thank you screen is a simple screen where the customer is presented with a thank you message along with an image & button to bring them back to the home screen.
 ![Screenshot 2023-03-26 at 10 13 03](https://user-images.githubusercontent.com/119259663/227766175-d4298218-08db-49eb-8e15-26e51c84d4ac.png)
-![Screenshot 2023-03-26 at 10 13 16](https://user-images.githubusercontent.com/119259663/227766186-425fe5b0-3b0f-4e0a-bad3-93fe9b9d6d2e.png)
+![Screenshot 2023-03-26 at 10 13 16](https://user-images.githubusercontent.com/119259663/227766186-425fe5b0-3b0f-4e0a-bad3-93fe9b9d6d2e.png)\
+
+# Credits
+
+## Content
+- The legend & Gym Zones description was taken from https://www.vervegym.ie/.
+- Stack Overflow, W3 Docs, MDN Web Docs and other online resources were used to help with HTML and CSS code i wanted to use on my website.
+- Slack for asking questions when required.
+- The icons where taken from Font Awesome
+- Much Inspiration was used from the love running project in terms of the hero image. and footer items etc.
+
+## Media
+- All of the photos on my website where obtained from pexels free stock photos site.
