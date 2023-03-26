@@ -447,10 +447,20 @@ footer {
        
     }
 
+
+
     #weightslogo{
         align-self: center;
         padding-right: 23%;
+        width: 60%;
     }
+
+    #assaultbike{
+        align-self: center;
+        padding-left: 8%;
+        width: 60%;
+    }
+
     #legend{
         align-self: center;
         padding-right: 23%;
