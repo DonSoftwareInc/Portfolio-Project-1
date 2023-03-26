@@ -1,8 +1,8 @@
 # Spartan Fitness
  
-## Spartan Fitness is a website created for people who want to bring their phyiscal performance to the next level. The site is targeted towards indiviuals who want to start or even enhance their phyiscal performance.
+## Spartan Fitness is a website created for people who want to bring their physical performance to the next level. The site is targeted towards individuals who want to start or even enhance their physical performance.
 
-This Website has been been built using HTML and CSS & CSS Flexbox 
+This Website has been built using HTML and CSS & CSS Flexbox 
 
 [(Live Link)](https://donsoftwareinc.github.io/Portfolio-Project-1/)
 
@@ -19,7 +19,7 @@ The target of Spartan Fitness is for any person who wants to train in a supergym
   - As a user:
     - I want to learn about the services provided by Spartan Fitness
     - I want to be able to book an appointment for a member of staff to contact me direct if i have a query.
-    - I want to engage with Spartan Ftiness on all social media platforms. 
+    - I want to engage with Spartan Fitness on all social media platforms. 
     
   - As a site administrator:
     - I want customers to identify with the strong and bold colour schemes and images to set the tone for the gym.
@@ -49,7 +49,7 @@ The target of Spartan Fitness is for any person who wants to train in a supergym
 
 
  ## Footer
- - The footer sections contains links to the Facebook, twitter, youtube and instagram home pages.
+ - The footer sections contains links to the Facebook, Twitter, YouTube and Instagram home pages.
 
 ## Home Page - Hero Image
  - The home page contains a hero image of someone about to snatch a weight. the colours of the shoes and the websites matches the colour scheme selected around the website.
@@ -89,3 +89,4 @@ The target of Spartan Fitness is for any person who wants to train in a supergym
 
 ## Media
 - All of the photos on my website where obtained from pexels free stock photos site.
+![image](https://user-images.githubusercontent.com/119259663/227767412-c665be58-0997-408d-ae54-f23255e5939d.png)
