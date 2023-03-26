@@ -13,7 +13,7 @@ This Website has been built using HTML and CSS & CSS Flexbox
 
 Site Targets
 
-The target of Spartan Fitness is for any person who wants to train in a supergym located in Dublin. The website contains information about us and also contains information on the services Spartan Fitness provides.
+The target of Spartan Fitness is for any person who wants to train in a super gym located in Dublin. The website contains information about us and also contains information on the services Spartan Fitness provides.
 
 ## User Stories
   - As a user:
